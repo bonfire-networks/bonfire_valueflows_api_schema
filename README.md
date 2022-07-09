@@ -1,22 +1,6 @@
-# ValueFlows
+# Bonfire.ValueFlows.API.Schema
 
-`ValueFlows` is a [Bonfire](https://bonfire.cafe/) extension that implements [ValueFlows](https://valueflo.ws/) for federated networks to conduct economic activities.
-
-Implemented so far:
-
-- Intent
-- Proposal
-- Economic Event
-- Types of Action
-- Resource Specification
-- Economic Resource
-- Process Specification
-- Process
-- Claim (WIP)
-- Value Calculations (WIP)
-
-As well as an optional GraphQL API for all of the above...
-
+Implements API schemas for [ValueFlows](https://valueflo.ws/) for federated networks to conduct economic activities.
 
 ## Handy commands
 
