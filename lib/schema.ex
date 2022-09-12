@@ -9,8 +9,5 @@ if Code.ensure_loaded?(Bonfire.API.GraphQL) do
     import_types(Absinthe.Type.Custom)
 
     import_sdl(path: "lib/schema.gql")
-
-
-
   end
 end
