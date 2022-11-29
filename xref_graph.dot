@@ -1,0 +1,5 @@
+digraph "xref graph" {
+  "lib/graphql_schema.ex"
+  "lib/schema.ex"
+  "lib/subscriptions.ex"
+}
