@@ -4,10 +4,11 @@ if Code.ensure_loaded?(Bonfire.API.GraphQL) do
     use Absinthe.Schema.Notation
     import Untangle
 
-    @external_resource "lib/schema.gql"
+    @schema_file "lib/schema.gql"
+    @external_resource @schema_file
 
     import_types(Absinthe.Type.Custom)
 
-    import_sdl(path: "lib/schema.gql")
+    import_sdl(path: @schema_file)
   end
 end
