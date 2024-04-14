@@ -1,4 +1,4 @@
-bonfire_common = "https://github.com/bonfire-networks/bonfire_common#main"
-# bonfire_quantify = "https://github.com/bonfire-networks/bonfire_quantify#main"
-# bonfire_geolocate = "https://github.com/bonfire-networks/bonfire_geolocate#main"
-# bonfire_tag = "https://github.com/bonfire-networks/bonfire_tag#main"
+bonfire_common = "https://github.com/bonfire-networks/bonfire_common"
+# bonfire_quantify = "https://github.com/bonfire-networks/bonfire_quantify"
+# bonfire_geolocate = "https://github.com/bonfire-networks/bonfire_geolocate"
+# bonfire_tag = "https://github.com/bonfire-networks/bonfire_tag"

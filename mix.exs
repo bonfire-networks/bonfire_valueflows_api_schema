@@ -27,7 +27,7 @@ defmodule Bonfire.ValueFlows.API.Schema.MixProject do
         Mess.deps([
           {:bonfire_api_graphql,
            git: "https://github.com/bonfire-networks/bonfire_api_graphql",
-           branch: "main",
+           
            optional: true, runtime: false}
         ])
     ]
